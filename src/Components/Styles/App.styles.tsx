@@ -6,9 +6,6 @@ export const StyledWrapper = styled.div`
     height: 100vh;
     margin: 0 auto;
 
-    background: white;
-
-    padding: 2em 4em;
     display: flex;
     flex-direction: column;
 `
