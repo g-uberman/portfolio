@@ -1,18 +1,23 @@
 import styled from "styled-components";
 
 export const StyledHeader = styled.main`
-    padding: 2em 4em;
-    background: #fffffff5;
-    
-    ul {
-        margin: 5px 20px;
-        display: flex;
-        gap: 35px;
-    }
+  padding: 2em 4em;
+  background: #fffffff5;
 
-    a, a:visited {
-        color: #344E43;
-        text-decoration: none;
-        font-weight: 500;
-    }
-`
+  ul {
+    margin: 5px 20px;
+    display: flex;
+    gap: 35px;
+  }
+
+  a,
+  a:visited {
+    color: #344e43;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  a:hover {
+    color: #5F8A77;
+  }
+`;
