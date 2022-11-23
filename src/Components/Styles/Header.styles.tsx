@@ -23,7 +23,7 @@ export const StyledHeader = styled.main`
     width: 120px;
     background: url(${photo});
     background-size: cover;
-    box-shadow: 0 0 25px 10px #00000080;
+    filter: grayscale(100%);
   }
 
   @media screen and (max-width: 500px) {

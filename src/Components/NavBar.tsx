@@ -16,7 +16,7 @@ export const NavBar = () => {
         to="/kosci"
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
-        Kości
+        Dice
       </NavLink>
       <NavLink
         to="/rpg-journal"

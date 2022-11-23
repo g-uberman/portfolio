@@ -6,14 +6,14 @@ export const StyledNavBar = styled.nav`
   padding: 10px 20px 0 20px;
   display: flex;
   justify-content: space-around;
-  /* background: #00000050; */
-  /* box-shadow: 0 0 25px 10px #00000050; */
-  z-index: 3;
-  background: #080A09;
-  position: -webkit-sticky;
+  background: #00000050;
+  box-shadow: 0 0 25px 10px #00000050;
+  /* background: #131917; */
+  /* z-index: -1; */
+  /* position: -webkit-sticky;
   position: sticky;
-  top: 0;
-  border-bottom: 1em solid #fffffff5;
+  top: 0; */
+  /* border-bottom: 1em solid #fffffff5; */
 
   a,
   a:visited {
@@ -25,7 +25,7 @@ export const StyledNavBar = styled.nav`
     border-radius: 8px 8px 0 0;
     z-index: 2;
     scale: 0.9;
-    transition: scale 0.3s;
+    transition: scale 0.1s;
   }
 
   a:hover {
