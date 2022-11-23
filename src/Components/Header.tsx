@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <StyledHeader>
       <figure>
-        <div className="photo" />
+        <div className="photo">test</div>
       </figure>
       <aside>
         <h1>Grzegorz Uberman</h1>
