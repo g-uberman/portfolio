@@ -6,7 +6,8 @@ export const StyledNavBar = styled.nav`
   padding: 10px 20px 0 20px;
   display: flex;
   justify-content: space-around;
-  background: #00000050;
+  background: #00000080;
+  box-shadow: 0 0 25px 10px #00000080;
 
   a,
   a:visited {
@@ -17,6 +18,7 @@ export const StyledNavBar = styled.nav`
     font-weight: 670;
     padding: 10px;
     border-radius: 8px 8px 0 0;
+    z-index: 2;
   }
 
   a.selectedNav {
