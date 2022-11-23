@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body {
-    background: url("https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Boar_Hunt_mosaic_-_Google_Art_Project.jpg");
+    background: url("https://upload.wikimedia.org/wikipedia/commons/a/a5/Gloomy_Forest.jpg");
     background-size: cover;
     background-position: center;
 }
