@@ -11,10 +11,6 @@ export const StyledContainer = styled.main`
         margin-bottom: 1em;
     }
 
-    .miniheader {
-        font-weight: 500;
-    }
-
     ul {
         margin-left: 2em;
     }

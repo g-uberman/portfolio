@@ -18,9 +18,16 @@ export const StyledNavBar = styled.nav`
     padding: 10px;
     border-radius: 8px 8px 0 0;
     z-index: 2;
+    scale: 0.9;
+    transition: scale 0.3s;
+  }
+
+  a:hover {
+    scale: 1;
   }
 
   a.selectedNav {
+    scale: 1;
     color: #000;
     background: #fffffff5;
   }

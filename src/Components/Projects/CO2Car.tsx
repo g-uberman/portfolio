@@ -4,7 +4,9 @@ import screenshot from "../../images/co2car.jpg";
 export const CO2Car = () => {
   return (
     <StyledContainer>
-      <img src={screenshot}></img>
+      <a href="https://co2car.netlify.app/" target="blank">
+        <img src={screenshot}></img>
+      </a>
       <h1>CO₂CAR</h1>
       <p>
         Team project finishing InfoShare Academy Junior Front-end Developer
@@ -32,7 +34,8 @@ export const CO2Car = () => {
         </a>
       </div>
 
-      <br /><div className="miniheader">Technologies used: </div>
+      <br />
+      <div className="miniheader green">Technologies used: </div>
       <ul>
         <li>React with TypeScript</li>
         <li>Material UI</li>
@@ -40,10 +43,11 @@ export const CO2Car = () => {
         <li>i18next</li>
         <li>Firebase Auth & Firestore</li>
       </ul>
-      <br /><div className="miniheader">Key features: </div>
+      <br />
+      <div className="miniheader green">Key features: </div>
       <ul>
         <li>User account saving user data</li>
-        <li>Data presented in easy-to-read charts</li>
+        <li>Data presented in dynamic charts</li>
         <li>Toggleable English and Polish language version</li>
         <li>Fully responsive</li>
       </ul>

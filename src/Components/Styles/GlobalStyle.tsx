@@ -24,6 +24,14 @@ p {
     margin: 1em 0;
 }
 
+.green {
+    color: #344E43;
+}
+
+.miniheader {
+    font-weight: 500;
+}
+
 /* LINKS */
 a,
   a:visited {
@@ -35,4 +43,4 @@ a,
   a:hover {
     color: #5f8a77;
   }
-`
+`;
