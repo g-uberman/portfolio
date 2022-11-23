@@ -18,17 +18,6 @@ export const StyledHeader = styled.main`
     flex-wrap: wrap;
   }
 
-  a,
-  a:visited {
-    color: #344e43;
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  a:hover {
-    color: #5f8a77;
-  }
-
   .photo {
     height: 100%;
     width: 120px;

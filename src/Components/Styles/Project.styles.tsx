@@ -5,4 +5,17 @@ export const StyledContainer = styled.main`
     padding: 2em 4em;
     background: #fffffff5;
     z-index: 1;
+
+    img {
+        width: 100%;
+        margin-bottom: 1em;
+    }
+
+    .miniheader {
+        font-weight: 500;
+    }
+
+    ul {
+        margin-left: 2em;
+    }
 `
