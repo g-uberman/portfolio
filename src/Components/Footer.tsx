@@ -1,5 +1,9 @@
+import { StyledFooter } from "./Styles/Footer.styles"
+
 export const Footer = () => {
     return (
-        <div>Footer</div>
+        <StyledFooter>
+            <a href="https://github.com/g-uberman" target="blank">g-uberman 2022</a>
+        </StyledFooter>
     )
 }
