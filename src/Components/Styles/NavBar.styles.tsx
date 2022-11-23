@@ -6,6 +6,7 @@ export const StyledNavBar = styled.nav`
   padding: 10px 20px 0 20px;
   display: flex;
   justify-content: space-around;
+  background: #00000050;
 
   a,
   a:visited {
@@ -13,13 +14,13 @@ export const StyledNavBar = styled.nav`
     text-align: center;
     color: #fff;
     text-decoration: none;
-    font-weight: bold;
-    padding: 10px 0;
-    border-radius: 8px 8px 0 0 ;
+    font-weight: 670;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
   }
 
   a.selectedNav {
     color: #000;
-    background: #fff;
+    background: #fffffff5;
   }
 `;

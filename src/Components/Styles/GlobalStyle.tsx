@@ -12,4 +12,11 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* FONTS */
+h1 {
+    text-transform: uppercase;
+    font-size: 1.65em;
+    color: #344E43;
+}
 `
