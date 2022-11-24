@@ -4,19 +4,21 @@ import screenshot from "../../images/rpgjournal.jpg";
 export const RPGJournal = () => {
   return (
     <StyledContainer>
-      <img src={screenshot}></img>
+      <a href="https://github.com/g-uberman/rpg-journal" target="blank">
+        <img src={screenshot}></img>
+      </a>
       <h1>Dziennik Drużynowy (RPG Journal)</h1>
       <p>Work in progress / Individual training project</p>
       <p>
-        This blog-style app will allow the user to create an instance of the
-        journal specific to their roleplaying game party and invite their
-        friends to record the party's progress and other campaign-specific
-        information.
+        This blog-style app dedicated to tabletop roleplaying players will allow
+        the user to create an instance of a journal specific to their
+        roleplaying game party and invite their friends to record the party's
+        progress and other campaign-specific information together.
       </p>
       <div className="miniheader">
         Repository:{" "}
         <a href="https://github.com/g-uberman/rpg-journal" target="blank">
-          github.com/g-uberman/rpg-journal
+          github.com/g-uberman/rpg-journal/
         </a>
       </div>
       <div className="miniheader">Not yet deployed</div>
@@ -29,11 +31,14 @@ export const RPGJournal = () => {
         <li>Firebase Auth & Firestore</li>
       </ul>
       <br />
-      <div className="miniheader green">Key features: </div>
+      <div className="miniheader green">Planned features: </div>
       <ul>
-        <li>Allowing the user to create an instance of the blog only accessible to specified other logged users</li>
         <li>
-          Users will be able to add records to the history log, images and character descriptions
+          Allowing the user to create an instance of the blog only accessible to
+          specified other logged users
+        </li>
+        <li>
+          Users will be able to add records to the history log, character descriptions and images
         </li>
         <li>Fully responsive</li>
       </ul>

@@ -24,7 +24,7 @@ export const CO2Car = () => {
           href="https://github.com/infoshareacademy/jfddr7-team-co2car"
           target="blank"
         >
-          github.com/infoshareacademy/jfddr7-team-co2car
+          github.com/infoshareacademy/jfddr7-team-co2car/
         </a>
       </div>
       <div className="miniheader">
@@ -42,6 +42,7 @@ export const CO2Car = () => {
         <li>react-chartjs-2</li>
         <li>i18next</li>
         <li>Firebase Auth & Firestore</li>
+        <li>Carbon Interface API</li>
       </ul>
       <br />
       <div className="miniheader green">Key features: </div>
