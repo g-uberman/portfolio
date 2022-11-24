@@ -9,8 +9,8 @@ export const CO2Car = () => {
       </a>
       <h1>CO₂CAR</h1>
       <p>
-        Team project finishing InfoShare Academy Junior Front-end Developer
-        Bootcamp co-authored by Dorota Dawidowicz, Tomasz Stenka and Monika
+        Team project finishing <strong>InfoShare Academy Junior Front-end Developer
+        Bootcamp</strong> co-authored with Dorota Dawidowicz, Tomasz Stenka and Monika
         Hilbrycht.
       </p>
       <p>

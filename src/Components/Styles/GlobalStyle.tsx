@@ -38,6 +38,10 @@ p {
     font-weight: 500;
 }
 
+strong {
+    color: #2b674b;
+}
+
 /* LINKS */
 a,
   a:visited {
