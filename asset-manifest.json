@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.a0235051.js",
+    "main.js": "/portfolio/static/js/main.f7ad66bf.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/co2car.jpg": "/portfolio/static/media/co2car.a8680d943321d70870b3.jpg",
     "static/media/rpgjournal.jpg": "/portfolio/static/media/rpgjournal.0e75e7c5aea9912a8a1e.jpg",
@@ -9,11 +9,11 @@
     "static/media/kosci.jpg": "/portfolio/static/media/kosci.50a86253642f332b5970.jpg",
     "index.html": "/portfolio/index.html",
     "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.a0235051.js.map": "/portfolio/static/js/main.a0235051.js.map",
+    "main.f7ad66bf.js.map": "/portfolio/static/js/main.f7ad66bf.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a0235051.js"
+    "static/js/main.f7ad66bf.js"
   ]
 }
