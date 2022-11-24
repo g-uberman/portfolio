@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f22cf8b2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/co2car.jpg": "/static/media/co2car.a8680d943321d70870b3.jpg",
+    "static/media/rpgjournal.jpg": "/static/media/rpgjournal.0e75e7c5aea9912a8a1e.jpg",
+    "static/media/uberman_headshot.jpg": "/static/media/uberman_headshot.d4297ff69410d94e34af.jpg",
+    "static/media/kosci.jpg": "/static/media/kosci.50a86253642f332b5970.jpg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f22cf8b2.js.map": "/static/js/main.f22cf8b2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f22cf8b2.js"
+  ]
+}
