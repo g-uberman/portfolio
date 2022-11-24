@@ -21,4 +21,8 @@ export const StyledContainer = styled.main`
     ul {
         margin-left: 2em;
     }
+    
+  @media screen and (max-width: 500px) {
+    padding: 2em;
+  }
 `

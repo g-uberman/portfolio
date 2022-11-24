@@ -8,7 +8,7 @@ export const StyledHeader = styled.main`
   aside {
     width: 100%;
     background: #fffffff5;
-    padding: 2em 1em 2em 2em;
+    padding: 2em;
   }
 
   ul {
