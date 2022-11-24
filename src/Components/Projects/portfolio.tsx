@@ -1,9 +1,5 @@
-import { StyledContainer } from "../Styles/Project.styles"
+import { StyledContainer } from "../Styles/Project.styles";
 
 export const Portfolio = () => {
-    return (
-        <StyledContainer>
-            This portfolio
-        </StyledContainer>
-    )
-}
+  return <StyledContainer>This portfolio</StyledContainer>;
+};

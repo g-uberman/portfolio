@@ -10,10 +10,10 @@ export const theme = createTheme({
     },
   },
   typography: {
-    "fontFamily": `"Gideon Roman", cursive`,
-    "fontSize": 14,
-    "fontWeightLight": 300,
-    "fontWeightRegular": 400,
-    "fontWeightMedium": 500
-   }
+    fontFamily: `"Gideon Roman", cursive`,
+    fontSize: 14,
+    fontWeightLight: 300,
+    fontWeightRegular: 400,
+    fontWeightMedium: 500,
+  },
 });

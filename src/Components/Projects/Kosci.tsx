@@ -45,8 +45,10 @@ export const Kosci = () => {
       <div className="miniheader green">Planned features: </div>
       <ul>
         <li>Presets supporting specific game systems</li>
-        <li>English/Polish language versions</li>
-        <li>Allowing the user to save and name dice collections for quick access</li>
+        <li>Toggleable English and Polish language version</li>
+        <li>
+          Allowing the user to save and name dice collections for quick access
+        </li>
         <li>Animation</li>
       </ul>
     </StyledContainer>

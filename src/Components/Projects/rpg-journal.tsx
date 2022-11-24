@@ -38,7 +38,8 @@ export const RPGJournal = () => {
           specified other logged users
         </li>
         <li>
-          Users will be able to add records to the history log, character descriptions and images
+          Users will be able to add records to the history log, character
+          descriptions and images
         </li>
         <li>Fully responsive</li>
       </ul>
