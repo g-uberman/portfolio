@@ -11,13 +11,19 @@ body {
     background: url("https://upload.wikimedia.org/wikipedia/commons/a/a5/Gloomy_Forest.jpg");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
+}
+
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
 }
 
 /* FONTS */
 h1 {
     text-transform: uppercase;
     font-size: 1.65em;
-    color: #344E43;
+    color: #2b674b;
 }
 
 p {
@@ -25,7 +31,7 @@ p {
 }
 
 .green {
-    color: #344E43;
+    color: #2b674b;
 }
 
 .miniheader {
@@ -35,7 +41,7 @@ p {
 /* LINKS */
 a,
   a:visited {
-    color: #344e43;
+    color: #2b674b;
     text-decoration: none;
     font-weight: 500;
   }

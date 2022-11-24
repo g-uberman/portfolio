@@ -7,7 +7,7 @@ export const NavBar = () => {
   return (
     <StyledNavBar>
       <NavLink
-        to="/co2car"
+        to="/"
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
         CO₂CAR
@@ -23,12 +23,6 @@ export const NavBar = () => {
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
         RPG Journal
-      </NavLink>
-      <NavLink
-        to="/portfolio"
-        className={({ isActive }) => (isActive ? activeClassName : undefined)}
-      >
-        This portfolio
       </NavLink>
     </StyledNavBar>
   );

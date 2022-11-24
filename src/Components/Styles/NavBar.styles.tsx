@@ -8,12 +8,6 @@ export const StyledNavBar = styled.nav`
   justify-content: space-around;
   background: #00000050;
   box-shadow: 0 0 25px 10px #00000050;
-  /* background: #131917; */
-  /* z-index: -1; */
-  /* position: -webkit-sticky;
-  position: sticky;
-  top: 0; */
-  /* border-bottom: 1em solid #fffffff5; */
 
   a,
   a:visited {

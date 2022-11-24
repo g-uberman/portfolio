@@ -16,11 +16,9 @@ function App() {
       <Header />
       <NavBar />
         <Routes>
-          <Route path="/" element={<Kosci />}></Route>
-          <Route path="/co2car" element={<CO2Car />}></Route>
+          <Route path="/" element={<CO2Car />}></Route>
           <Route path="/kosci" element={<Kosci />}></Route>
           <Route path="/rpg-journal" element={<RPGJournal />}></Route>
-          <Route path="/portfolio" element={<Portfolio />}></Route>
         </Routes>
       <Footer />
     </StyledWrapper>
