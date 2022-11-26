@@ -23,6 +23,7 @@ export const StyledNavBar = styled.nav`
 
   a:hover {
     scale: 1;
+    color: #fff;
   }
 
   a.selectedNav {
