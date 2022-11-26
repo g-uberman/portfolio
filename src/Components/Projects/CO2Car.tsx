@@ -15,7 +15,7 @@ export const CO2Car = () => {
       </p>
       <p>
         CO₂CAR allows you to easily track your car's emissions, save your
-        emission data over time and sum & compare your numbers to european
+        emission data over time and sum & compare your numbers to European
         averages and recommendations.
       </p>
       <div className="miniheader">
