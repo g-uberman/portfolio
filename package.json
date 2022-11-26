@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://g-uberman.github.io",
+  "homepage": "https://g-uberman.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

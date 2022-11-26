@@ -7,19 +7,19 @@ export const NavBar = () => {
   return (
     <StyledNavBar>
       <NavLink
-        to="/"
+        to="portfolio/co2car"
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
         CO₂CAR
       </NavLink>
       <NavLink
-        to="/kosci"
+        to="portfolio/kosci"
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
         Dice
       </NavLink>
       <NavLink
-        to="/rpg-journal"
+        to="portfolio/rpg-journal"
         className={({ isActive }) => (isActive ? activeClassName : undefined)}
       >
         RPG Journal
